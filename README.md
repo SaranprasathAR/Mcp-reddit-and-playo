@@ -6,7 +6,7 @@ A collection of three MCP (Model Context Protocol) servers providing Reddit inte
 
 Watch the demo video to see all three MCP servers in action:
 
-**[Demo Video](https://youtu.be/IJUluYlRUhg)**
+[![Demo Video](https://img.youtube.com/video/IJUluYlRUhg/0.jpg)](https://www.youtube.com/watch?v=IJUluYlRUhg "demo video")
 
 ##  Features
 
